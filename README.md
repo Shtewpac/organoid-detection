@@ -79,10 +79,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or inquiries, please contact the authors:
 
 - William Kraft: [wkraft@umass.edu](mailto:wkraft@umass.edu)
-- Beatriz Martinez-Martin
-- Isabella Lambros
-- Yubing Sun
+- Isabella Lambros: [ilambros@umass.edu](mailto:ilambros@umass.edu)
+- Beatriz Martinez-Martin: [bmartinezmar@umass.edu](mailto:bmartinezmar@umass.edu)
+- Yubing Sun: [ybsun@umass.edu](mailto:ybsun@umass.edu)
 
 ### Acknowledgements
 
 This project is developed at the Life Science Laboratories, Amherst MA.
+
+
